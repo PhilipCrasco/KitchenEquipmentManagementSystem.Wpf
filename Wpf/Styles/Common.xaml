@@ -1,0 +1,16 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ImageBrush x:Key="LoginMainBg" ImageSource="/Resources/LoginBg/kitchenbg.jpg" Opacity="0.4"  Stretch="Fill"/>
+    <ImageBrush x:Key="RegistrationBg" ImageSource="/Resources/LoginBg/registerbg.png" Opacity="0.8"  Stretch="Fill"/>
+
+
+
+
+    <Color x:Key="ColorPrimary1">#54A1A9</Color>
+
+
+    <SolidColorBrush x:Key="BrushPrimary1" Color="{StaticResource ColorPrimary1}"></SolidColorBrush>
+
+
+</ResourceDictionary>
